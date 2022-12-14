@@ -1,0 +1,45 @@
+<component name="libraryTable">
+  <library name="jdatepicker-1.3.2">
+    <CLASSES>
+      <root url="jar://D:/3_КУРС/Новая папка/51051/51051/OnlineWH/lib/jdatepicker-1.3.2.jar!/" />
+      <root url="jar://D:/3_КУРС/Новая папка/51051/51051/OnlineWH/lib/poi-excelant-3.13-20150929.jar!/" />
+      <root url="jar://D:/3_КУРС/Новая папка/51051/51051/OnlineWH/lib/poi-ooxml-schemas-3.13-20150929.jar!/" />
+      <root url="jar://D:/3_КУРС/Новая папка/51051/51051/OnlineWH/lib/TCPObjects.jar!/" />
+      <root url="jar://D:/3_КУРС/Новая папка/51051/51051/OnlineWH/lib/xchart-2.6.0.jar!/" />
+      <root url="jar://D:/3_КУРС/Новая папка/51051/51051/OnlineWH/lib/xchart-demo-2.6.0.jar!/" />
+      <root url="file://D:/3_КУРС" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://D:/3_КУРС/3_Course/СЯП/laba1/src/main/java" />
+      <root url="file://D:/3_КУРС/Новая папка/51051/51051/OnlineWH/src" />
+      <root url="file://D:/3_КУРС/Новая папка/51051/51051/Server/src" />
+      <root url="file://D:/3_КУРС/ПрогСП/course project/Client/src/main/java" />
+      <root url="file://D:/3_КУРС/ПрогСП/course project/Server/src/main/java" />
+      <root url="file://D:/3_КУРС/ПрогСП/course project/Server/src/test/java" />
+      <root url="file://D:/3_КУРС/ПрогСП/проекты/apache-tomcat-9.0.69/apache-tomcat-9.0.69/webapps/docs/appdev/sample/src" />
+      <root url="file://D:/3_КУРС/ПрогСП/проекты/apache-tomcat-9.0.69/apache-tomcat-9.0.69/webapps/examples/WEB-INF/classes" />
+      <root url="file://D:/3_КУРС/ПрогСП/проекты/laba_1/src" />
+      <root url="file://D:/3_КУРС/ПрогСП/проекты/laba_2/src" />
+      <root url="file://D:/3_КУРС/ПрогСП/проекты/laba_3_client/src/main/java" />
+      <root url="file://D:/3_КУРС/ПрогСП/проекты/laba_3_server/src" />
+      <root url="file://D:/3_КУРС/ПрогСП/проекты/laba_4_client/src/main/java" />
+      <root url="file://D:/3_КУРС/ПрогСП/проекты/laba_4_server/src/main/java" />
+      <root url="file://D:/3_КУРС/ПрогСП/проекты/laba_5_client/src/main/java" />
+      <root url="file://D:/3_КУРС/ПрогСП/проекты/laba_5_server/src" />
+      <root url="file://D:/3_КУРС/ПрогСП/проекты/laba_6_m/src/main/java" />
+      <root url="file://D:/3_КУРС/ПрогСП/проекты/laba_7/src/main/java" />
+      <root url="file://D:/3_КУРС/ПрогСП/проекты/mysql-connector-java-8.0.30/mysql-connector-java-8.0.30/src/build/java" />
+      <root url="file://D:/3_КУРС/ПрогСП/проекты/mysql-connector-java-8.0.30/mysql-connector-java-8.0.30/src/demo/java" />
+      <root url="file://D:/3_КУРС/ПрогСП/проекты/mysql-connector-java-8.0.30/mysql-connector-java-8.0.30/src/generated/java" />
+      <root url="file://D:/3_КУРС/ПрогСП/проекты/mysql-connector-java-8.0.30/mysql-connector-java-8.0.30/src/legacy/java" />
+      <root url="file://D:/3_КУРС/ПрогСП/проекты/mysql-connector-java-8.0.30/mysql-connector-java-8.0.30/src/main/core-api/java" />
+      <root url="file://D:/3_КУРС/ПрогСП/проекты/mysql-connector-java-8.0.30/mysql-connector-java-8.0.30/src/main/core-impl/java" />
+      <root url="file://D:/3_КУРС/ПрогСП/проекты/mysql-connector-java-8.0.30/mysql-connector-java-8.0.30/src/main/protocol-impl/java" />
+      <root url="file://D:/3_КУРС/ПрогСП/проекты/mysql-connector-java-8.0.30/mysql-connector-java-8.0.30/src/main/user-api/java" />
+      <root url="file://D:/3_КУРС/ПрогСП/проекты/mysql-connector-java-8.0.30/mysql-connector-java-8.0.30/src/main/user-impl/java" />
+      <root url="file://D:/3_КУРС/ПрогСП/проекты/mysql-connector-java-8.0.30/mysql-connector-java-8.0.30/src/test/java" />
+      <root url="file://D:/3_КУРС/ПрогСП/проекты/vity_srver/src" />
+    </SOURCES>
+  </library>
+</component>
